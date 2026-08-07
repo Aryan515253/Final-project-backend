@@ -7,3 +7,6 @@ three models are :-
 1). subscription model
 2). user model
 3). video model
+
+
+this repository is having some issue , so project is in the new directory
